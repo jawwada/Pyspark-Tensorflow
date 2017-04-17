@@ -1,7 +1,7 @@
 # Pyspark-Tensorflow
 This project is a journal of my learnings in PySpark, Spark MLLib, deep learning framework Tensor flow and an importatn library Keras that uses Tensor flow backend.
 
-I mainly show two importatn use cases binary classification and Timeseries Prediction. Both of the uses cases are important because binary classification can be easily extended to multi-class classification and time series modeling in neural works can be enhanced to do sequence modeling purposes.
+I mainly show two importatn use cases binary classification and Timeseries Prediction. Both of the uses cases are important because binary classification can be easily extended to multi-class classification and time series modeling in neural works can be enhanced to do sequence modeling.
 
 The algorithms I mainly use are logistic regression, random forests, single layer neural network, multilayer perceptrons and long short term memory neural networks which is a specific type of recurrent neural networks. 
 
