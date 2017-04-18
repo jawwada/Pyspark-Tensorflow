@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Apr 18 00:51:12 CEST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-7e1c-ddeb-00000c45fff8 
-on database directory /Users/ahmedjawad/notebooks/Pysaprk-Tensorflow/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@67a04a1a 
+Tue Apr 18 11:42:54 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-8071-82ee-000008ce3fe8 
+on database directory /Users/ahmedjawad/notebooks/Pysaprk-Tensorflow/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@513f252c 
 Loaded from file:/usr/local/Cellar/apache-spark/2.1.0/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_121-b13
